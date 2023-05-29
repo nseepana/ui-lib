@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "gitHead": "358c9defb457fd60f17283b9f5135eef75c9f03e"
+  "author": "naresh.seepana",
+  "license": "MIT",
+  "gitHead": "1ba3e1a4fdf55997ed9fe22a68102082399428ab"
 }
