@@ -1,8 +1,9 @@
 {
-  "name": "buttonx",
+  "name": "@ui-lib/buttonx",
   "version": "0.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "lib/index.js",
+   "module": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
